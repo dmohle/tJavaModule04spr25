@@ -6,7 +6,7 @@ Objective:
 Enhance your understanding of Java control structures, data structures, file I/O, and OOP design through the "Java Zoo Practice" application. This project will prepare you for the major midterm program by processing information from a file, managing animal data, and generating a report.
 
 Background:
-The zoo has received a list of new animals. Your task is to organize this information, process it, and prepare a report on the animals, including their specific enclosures.
+The zoo has received a list of new animals. Your task is to organize this information, process it, and prepare a report on the animals.
 
 Important:
 This program is a vital step towards preparing for your major midterm project. If you find yourself needing help, consider getting a tutor, joining our Discord server, forming a study group, or finding a lab partner.
