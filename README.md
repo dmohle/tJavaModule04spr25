@@ -14,18 +14,18 @@ This program is a vital step towards preparing for your major midterm project. I
 Requirements:
 
 Class Design:
-
 Create an Animal class with the properties name, age, and species. Include a constructor, getters, and setters.
 Develop four subclasses: Hyena, Lion, Tiger, and Bear, each with unique features.
+
 Data Structures:
-
 Use ArrayList for storing animal instances and HashMap for counting species.
+
 File I/O:
-
 Read animal details from arrivingAnimals.txt, and animalNames.txt and output a report to newAnimals.txt, listing animals by species, their names, ages, and the total count of each species.
-Control Structures & OOP Design:
 
+Control Structures & OOP Design:
 Apply loops, conditionals, encapsulation, inheritance, and polymorphism as specified.
+
 Tasks:
 
 Design and implement the Animal class and its subclasses.
